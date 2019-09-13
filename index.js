@@ -5,9 +5,13 @@ app.set("view engine", "ejs");
 app.use(express.static(__dirname + '/public'))
 
 
-app.get("/", (req, res) => {
+app.get("/desktop", (req, res) => {
   res.render("registration_page");
 });
+
+app.get("/mobile", (req, res) => {
+  res.render("mobile_page")
+})
 
 
 app.listen(port, function() {

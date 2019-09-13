@@ -1,0 +1,32 @@
+.header {
+  overflow: hidden;
+  padding: 15px;
+  text-align: center;
+  background-image: 
+}
+
+.header a {
+  float: right;
+  padding-left: 10px;
+  padding: auto;
+}
+
+.header i {
+  float: left;
+  display: block;
+  color: black;
+}
+
+.text {
+  display: inline-block;
+  margin-top: auto;
+  float: left;
+  margin-left: -15%;
+  font-family: 'Raleway', sans-serif;
+}
+.logo {
+  margin-top: auto;
+  display: inline-block;
+  position: relative;
+  float: left;
+}

@@ -2,7 +2,7 @@
   overflow: hidden;
   display: block;
   margin-top: 25px;
-  width: 100%;
+  width: 95%;
 }
 
 .topnav a {
@@ -24,7 +24,6 @@
 
 .text {
   display: inline-block;
-  vertical-align: middle;
   margin-top: auto;
   float: left;
   margin-left: -5%;
@@ -34,7 +33,6 @@
 .logo {
   padding-left: 40px;
   margin-top: auto;
-  vertical-align: middle;
   display: inline-block;
   position: relative;
   float: left;
