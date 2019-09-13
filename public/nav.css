@@ -1,0 +1,41 @@
+.topnav {
+  overflow: hidden;
+  display: block;
+  margin-top: 25px;
+  width: 100%;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: auto;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.topnav i {
+  float: left;
+  display: block;
+  color: black; 
+  padding-left: 30px;
+}
+
+.text {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: auto;
+  float: left;
+  margin-left: -5%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.logo {
+  padding-left: 40px;
+  margin-top: auto;
+  vertical-align: middle;
+  display: inline-block;
+  position: relative;
+  float: left;
+}
