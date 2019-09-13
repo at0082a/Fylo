@@ -11,3 +11,5 @@ Fylo is a front-end application built using HTML and CSS designed using the CSS 
 <li>Go to http://localhost:3001/mobile in your browser to see the mobile view. </li>
 </ol>
 
+
+![Tiny App Homepage](https://github.com/at0082a/tiny-app-2/blob/master/pics/:URLS%20homepage.png)
