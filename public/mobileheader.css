@@ -14,13 +14,14 @@
 .header i {
   float: left;
   display: block;
-  color: black;
+  color: white;
 }
 
 .text {
   display: inline-block;
   margin-top: auto;
   float: left;
+  color: white;
   margin-left: -15%;
   font-family: 'Raleway', sans-serif;
 }

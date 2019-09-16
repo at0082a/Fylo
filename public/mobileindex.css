@@ -5,6 +5,35 @@
   }
 }
 
-.page {
-  background-image: url("../images/bg-intro.svg");  
+body { 
+  background-image: url("../images/bg-intro.svg"); 
+  background-repeat: no-repeat; 
+  background-position: top;
+  background-attachment: fixed;       
+  webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 60%;
+  z-index: -1
+} 
+
+.main-image {
+  height: 10%;
+  width: 50%;
+  margin-bottom: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.main {
+  margin-top: 10%;
+  margin-left: 11%;
+  display: block;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.main p {
+  font-size: 12px;
 }
